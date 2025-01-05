@@ -2,7 +2,7 @@
 
 Program ini dirancang untuk mengelola inventaris barang dengan memanfaatkan pemrograman modular yang memisahkan logika, data, dan antarmuka pengguna. Komponen utama program terdiri dari tiga class utama: Data, View, dan Process, yang diintegrasikan melalui file main.py. 
 
-[Program Sederhana](https://youtu.be/oAGcyJqd2W4?si=7EwZi3aV4S0Ds3Vq)
+[Link Youtube](https://youtu.be/oAGcyJqd2W4?si=7EwZi3aV4S0Ds3Vq)
 
 ## Class Data 
 
